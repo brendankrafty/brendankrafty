@@ -26,16 +26,6 @@
 
 ---
 
-### 🚧 **Projects**  
-**Perennia** | *3D Puzzle-Platformer Game (Unity/C#)*  
-- Led development of a sci-fi game 🚀—because who doesn’t want to code portals and laser puzzles?  
-- MVP lesson: Scope creep is the final boss.  
-
-**Taskly** | *Task Management App (Python/Django/MySQL)*  
-- Built a CRUD app to tame my own chaos (and learned why user auth is *never* simple).  
-
----
-
 ### 📚 **Education**  
 **Georgia State University** | *B.S. Computer Science (2024)*  
 - **Relevant Coursework:** Algorithms, Web Programming, Cloud Computing, Human-Computer Interaction.  
