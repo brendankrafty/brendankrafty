@@ -61,4 +61,6 @@ Looking for a **curious junior developer** who’s equal parts coder and puzzle-
 - **🧩 Puzzle-brain**: Love breaking down complex systems—whether it’s code, engines, or IKEA furniture.  
 - **🛠️ Hands-on learner**: If I can take it apart, I can rebuild it better (or at least funnier).  
 - **🎯 Impact-driven**: Want to build tech that solves *real problems*—not just moves pixels.  
-- **🤝 Team player**: Miss the camaraderie of a busy bar? Let’s channel that energy into sprints.  
+- **🤝 Team player**: Miss the camaraderie of a busy bar? Let’s channel that energy into sprints.
+
+*Built with equal parts caffeine, curiosity, and a dash of Atlanta humidity.* 🌆
